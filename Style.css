@@ -1,0 +1,23 @@
+.customCard{
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+    max-width: 20%;
+}
+section {
+    text-align: center;
+}
+#sectionImg{
+    width: 50%;
+    
+}
+section ul{
+    list-style: none;
+}
+.table .customTableTitle {
+    color: red;
+}
+section p{
+    font-size: 1.5em;
+    color: brown;
+}
